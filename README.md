@@ -30,6 +30,7 @@ This project contains an Amplify project (/amplify) already configured & ready t
 
 ```bash
 npm install -g @aws-amplify/cli
+npm i aws-amplify
 ```
 
 ``You must also have the CLI configured with a user from your AWS account (amplify configure). For a walkthrough of how to do this, check the lecture in the course where I show how to do just that (or go to amplify docs).`
